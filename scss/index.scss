@@ -1,0 +1,27 @@
+*{
+    border : 1px black dashed;
+    color : green;
+    box-sizing: border-box;
+    padding : 20px;
+}
+
+body{
+    display:flex;
+    flex-wrap: wrap;
+    width:300mm;
+    margin :auto;
+}
+
+.header {
+    color: red;
+    width:100%;
+}
+
+.body{
+    width:70%;
+}
+
+.side{
+    width:30%;
+
+}
